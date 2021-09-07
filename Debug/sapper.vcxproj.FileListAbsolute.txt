@@ -1,0 +1,2 @@
+C:\Users\Andrew\Documents\Информатика\просто так\sapper\Debug\minesweeper.exe
+C:\Users\Andrew\Documents\Информатика\просто так\sapper\Debug\minesweeper.pdb
